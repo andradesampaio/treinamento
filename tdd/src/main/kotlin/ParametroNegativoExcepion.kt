@@ -1,0 +1,3 @@
+class ParametroNegativoExcepion : RuntimeException() {
+
+}

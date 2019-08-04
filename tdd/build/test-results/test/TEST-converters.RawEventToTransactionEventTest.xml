@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="converters.RawEventToTransactionEventTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-07-31T21:57:53" hostname="AMAC02VD5SKHV29" time="0.008">
+  <properties/>
+  <testcase name="deve converter um rawEven para um TransactionEvent do tipo Internacional da categoria RESTAURANTE para FOOD" classname="converters.RawEventToTransactionEventTest" time="0.006"/>
+  <testcase name="deve converter um rawEven para um TransactionEvent do tipo nacional da categoria RESTAURANTE para FOOD" classname="converters.RawEventToTransactionEventTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
