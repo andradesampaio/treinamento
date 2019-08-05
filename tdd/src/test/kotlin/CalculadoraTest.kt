@@ -6,8 +6,8 @@ class CalculadoraTest {
 
     @Test
     fun meuPrimeiroTeste() {
-        val soma = 6 + 4
-        assertEquals(10, soma)
+        val soma = 10 + 4
+        assertEquals(14, soma)
     }
 
     @Test

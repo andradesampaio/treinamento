@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-05T18:29:31" hostname="AMAC02VD5SKHV29" time="0.001">
+  <properties/>
+  <testcase name="meuPrimeiroTeste" classname="CalculadoraTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
