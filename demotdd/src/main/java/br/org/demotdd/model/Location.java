@@ -4,6 +4,7 @@ import lombok.*;
 
 import javax.persistence.Entity;
 import java.time.LocalDateTime;
+import java.util.List;
 
 
 @AllArgsConstructor
@@ -14,7 +15,7 @@ import java.time.LocalDateTime;
 public class Location {
 
     private User user;
-    private Movie movie;
+    private List<Movie> movie;
     private LocalDateTime dateLocation;
     private LocalDateTime dateReturn;
     private Double price;
